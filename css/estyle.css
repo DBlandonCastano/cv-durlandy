@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(129, 129, 133);
+}
+h1{
+    font-size: 25px;
+    
+}
+header{
+    
+    position: relative;
+    top: 10%;
+    left: 30%;
+    right: 0%;
+    bottom: 0%;
+    width: 530px;
+    text-align: center;
+    padding: 10px 10px;
+}
+header img{
+    height: 200px;
+    width: 270px;
+    margin: 2px 2px;
+    border-style:double;
+}
+header p{
+    text-align: justify;
+    padding: 5px;
+}
+h2, h3{
+    text-align: center;
+    font-size: 20px;
+}
+section{
+    position: relative;
+    top: 0;
+    left: 20%;
+    bottom: 0;
+    right: 0;
+    padding: 5px;
+    width: 900px;
+    border-style:ridge;
+}
+section p{
+    font-size: 16px;
+    width: 900px;
+    text-align: justify;
+}
